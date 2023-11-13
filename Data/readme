@@ -1,1 +1,3 @@
-Data is recoreded from two main centers: Australia and Hong-Kong
+Data is recoreded from two main centers: Australia and Hong-Kong. 
+The model performance is evaluated based on the internal validation (i.e., validation based on the development cohort comprising Australia, and 60% of the Hong-Kong cohorts) and
+External validation (i.e., 40% of the  Hong-Kong cohort is set to assess the predictive performance of the internally-validated MLP model on a (quasi-)independent dataset.)
